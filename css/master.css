@@ -1,0 +1,18 @@
+*{
+
+  padding: inherit;
+}
+body{
+  background: lightgray;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+#container{
+  width: auto;
+  margin: auto;
+  border: 1px solid
+}
+header{
+  height: auto;
+  line-height: inherit;
+  text-align-last: center;
+}
